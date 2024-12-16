@@ -2,9 +2,9 @@
 
 This is a PyTorch implementation of our paper "PROMIPL: A Generative Probabilistic Disambiguation Model for Multi-Instance Partial-Label Learning"
 
-```
+```bibtex
 @inproceedings{yang2024promipl,
-    author = {Yang, Yin-Fang and Tang, Wei and Zhang, Min-Ling},
+    author = {Yin-Fang Yang and Wei Tang and Min-Ling Zhang},
     title = {ProMIPL: A probabilistic generative model for multi-instance partial-label learning.},
     booktitle = {Proceedings of the 24th IEEE International Conference on Data Mining},
     year = {2024},
