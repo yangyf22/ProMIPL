@@ -5,7 +5,7 @@ This is a PyTorch implementation of our paper "PROMIPL: A Generative Probabilist
 ```bibtex
 @inproceedings{yang2024promipl,
     author = {Yin-Fang Yang and Wei Tang and Min-Ling Zhang},
-    title = {ProMIPL: A probabilistic generative model for multi-instance partial-label learning.},
+    title = {ProMIPL: A probabilistic generative model for multi-instance partial-label learning},
     booktitle = {Proceedings of the 24th IEEE International Conference on Data Mining},
     year = {2024},
     address = {Abu Dhabi, UAE}
